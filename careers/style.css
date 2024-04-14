@@ -1,0 +1,20 @@
+.client_success_stories{
+  background-image: url('http://www.servingimmigrants.com/wp-content/uploads/2024/04/bg1.png');
+  min-height: 200px;
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.sec_client_stories{
+  background: linear-gradient(0.14turn, #f7f7f7, #fff);
+}
+
+@media (max-width: 800px) {
+  .client_story_img{
+    max-width: 400px;
+  }
+  .quote_client_img{
+    
+  }
+}
